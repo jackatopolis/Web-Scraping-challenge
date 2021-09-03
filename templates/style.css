@@ -1,0 +1,22 @@
+.col-3 {
+    display:block;
+    border: 2px;
+}
+
+body {
+    background-color: red;
+}
+
+button {
+    align-items: center;
+}
+
+.table {
+    margin: auto;
+    width: 50% !important; 
+ }
+
+img {
+    margin: auto;
+    width: 50% !important; 
+}
